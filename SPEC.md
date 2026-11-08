@@ -32,7 +32,7 @@ Quelle: Meeting 1 und 2 (20 Nachrichten) mit der Inhaberin Sabine Kleist. Zu jed
 - **BR2** Alle wesentlichen Dienstleister schriftlich bestätigt spätestens 21 Tage vor dem Event, mündliche Zusage zählt nur als „zugesagt“ (Nachricht 6, 16, 17)
 - **BR3** Budget: Warnung ab 85 % Summe aller Buchungen, ab 100 % Sperre bis zur Freigabe durch die Inhaberin, Zusatzleistungen bis 500 € im Konzept entscheidet sie selbst, darüber Zustimmung des Kunden (Nachricht 10, 14)
 - **BR4** Storno und Verschiebung: Anzahlung wird nie erstattet, bis 3 Monate vorher meist ohne Gebühren, unter 3 Wochen gelten die Stornobedingungen der Dienstleister und werden an den Kunden weitergereicht (Nachricht 15)
-- **BR5** Bei Datumsänderung werden nur rechnerische Fristen automatisch angepasst (Restzahlung, 21-Tage-Frist, „X Tage vor Event“), alles andere nur als Hinweis, keine Nachricht nach außen ohne die Inhaberin (Nachricht 4, 16)
+- **BR5** Bei Datumsänderung werden nur rechnerische Fristen automatisch angepasst (Restzahlung, Cutoff-Datum, „X Tage vor Event“), alles andere nur als Hinweis, keine Nachricht nach außen, Inhaberin kontaktiert die Dienstleister (Nachricht 4, 16)
 
 ## Widersprüche
 
